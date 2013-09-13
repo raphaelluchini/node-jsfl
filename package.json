@@ -1,4 +1,10 @@
 {
   "name": "node-jsfl",
-  "main": "./node-jsfl.js"
+  "main": "./bin/node-jsfl.js",
+  "version": "1.0.0",
+  "description": "Helps you with tasks running JSFL scripts.",
+  "preferGlobal": "true",
+  "author": "Raphael Luchini",
+  "engines": { "node": "*" }
 }
+
