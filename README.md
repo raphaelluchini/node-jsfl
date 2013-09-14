@@ -11,6 +11,6 @@ node-jsfl
 ####Using
 >var jsfl = require('node-jsfl');
 
->jsfl.run('<file>', callback(err){console.log(err)});
+>jsfl.run('file', callback(err){console.log(err)});
 
 File extension is optional.
